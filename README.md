@@ -15,5 +15,11 @@ I enjoy transforming ideas into real-world applications and continuously improvi
 - 🛠️ Strong believer in learning by building and improving real-world projects
 - 📈 Focused on writing clean, maintainable, and scalable code
 
+## 📊 GitHub Stats
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AthmakuruKavya&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AthmakuruKavya&layout=compact&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=AthmakuruKavya&theme=tokyonight)
 
