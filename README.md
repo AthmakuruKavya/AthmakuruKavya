@@ -15,8 +15,6 @@ I enjoy transforming ideas into real-world applications and continuously improvi
 - 🛠️ Strong believer in learning by building and improving real-world projects
 - 📈 Focused on writing clean, maintainable, and scalable code
 
-## 📊 GitHub Stats
-<img src="https://github-readme-stats.vercel.app/api?username=AthmakuruKavya&show_icons=true" />
 
 
 
